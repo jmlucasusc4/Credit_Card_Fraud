@@ -7,7 +7,7 @@
 
 Linear regression is one of the easiest and most popular Machine Learning algorithms. It is a statistical method used for predictive analysis. 
 
-It shows a relationship between dependent (y) and independent variables (x). It finds the value of Y changes according to the independent variables. 
+It shows a relationship between dependent (Y) and independent variables (X). It finds the value of "Y" changes according to the independent variables.  
 
 
 # Principal Component Analysis for Dimensionality Reduction
